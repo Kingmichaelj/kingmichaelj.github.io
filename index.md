@@ -7,10 +7,10 @@ layout: default
 **Sapians**
 Great book about the history of the humankind
 
-Why Nations Fail
+**Why Nations Fail**
 
-Ego is the enemy
+**Ego is the enemy**
 
-The Structure of Scientific Revolutions
+**The Structure of Scientific Revolutions**
 
-Antifragile
+**Antifragile**
